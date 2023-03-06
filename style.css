@@ -137,7 +137,7 @@ header {
   top: 100%;
   left: 0;
   right: 0;
-  background: #eeedff;
+  background: #608dfd;
   padding: 1rem;
   border-top: 1px solid #666;
   display: flex;
@@ -425,7 +425,7 @@ video.live {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
-  margin-top: 2rem;
+  margin-top: 4rem;
 }
 
 .packages__parent .box {
@@ -552,7 +552,7 @@ video.live {
 .destimation__image {
   width: 40%;
   position: relative;
-  background-image: url(/images/egybt1.jpg);
+  background-image: url(./images/egybt1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
